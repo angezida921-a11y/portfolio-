@@ -1,6 +1,6 @@
 {
   "name": "unifolio",
-  "version": "lastest",
+  "version": "14.2.25",
   "private": true,
   "scripts": {
     "build": "next build",
